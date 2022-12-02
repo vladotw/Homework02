@@ -13,6 +13,7 @@ public class Main {
     public static void task1() {
 
         System.out.println("Task1");
+        System.out.println();
 
         var dog = 8;
         var cat = 3.6;
@@ -28,6 +29,7 @@ public class Main {
     public static void task2() {
 
         System.out.println("Task2");
+        System.out.println();
 
         var dog = 8;
         var cat = 3.6;
@@ -52,6 +54,7 @@ public class Main {
     public static void task3() {
 
         System.out.println("Task3");
+        System.out.println();
 
         var dog = 8.0;
         var cat = 3.6;
@@ -76,6 +79,7 @@ public class Main {
     public static void task4() {
 
         System.out.println("Task4");
+        System.out.println();
 
         var friend = 19;
 
@@ -94,6 +98,7 @@ public class Main {
     public static void task5() {
 
         System.out.println("Task5");
+        System.out.println();
 
         var frog = 3.5;
 
@@ -116,6 +121,7 @@ public class Main {
     public static void task6() {
 
         System.out.println("Task6");
+        System.out.println();
 
         var firstBoxerWeight = 78.2;
         var secondBoxerWeight = 82.7;
@@ -133,6 +139,7 @@ public class Main {
     public static void task7() {
 
         System.out.println("Task7");
+        System.out.println();
 
         var firstBoxerWeight = 78.2;
         var secondBoxerWeight = 82.7;
@@ -147,6 +154,7 @@ public class Main {
     public static void task8() {
 
         System.out.println("Task8");
+        System.out.println();
 
         var totalTime = 640;
         var oneEmloyeeTime = 8;
